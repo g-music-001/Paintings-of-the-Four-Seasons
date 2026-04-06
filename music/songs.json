@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 141,
+    "src": "./music/songs/1.mp3",
+    "cover": "./music/covers/1.jpg",
+    "lyrics": "./music/lyrics/1.lrc"
+  },
+  {
+    "id": 2,
+    "title": "炽热心跳 (Burning Heartbeat)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 153,
+    "src": "./music/songs/2.mp3",
+    "cover": "./music/covers/1.jpg",
+    "lyrics": "./music/lyrics/2.lrc"
+  },
+  {
+    "id": 3,
+    "title": "霓虹心跳 (Neon Heartbeat)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 156,
+    "src": "./music/songs/3.mp3",
+    "cover": "./music/covers/1.jpg",
+    "lyrics": "./music/lyrics/3.lrc"
+  },
+  {
+    "id": 4,
+    "title": "逆风的光 (Light Against the Wind)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 191,
+    "src": "./music/songs/4.mp3",
+    "cover": "./music/covers/4.jpg",
+    "lyrics": "./music/lyrics/4.lrc"
+  },
+  {
+    "id": 5,
+    "title": "青花雨 (Blue Porcelain Rain)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 154,
+    "src": "./music/songs/5.mp3",
+    "cover": "./music/covers/5.jpg",
+    "lyrics": "./music/lyrics/5.lrc"
+  },
+  {
+    "id": 6,
+    "title": "微风告白 (Whispering Breeze)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 131,
+    "src": "./music/songs/6.mp3",
+    "cover": "./music/covers/6.jpg",
+    "lyrics": "./music/lyrics/6.lrc"
+  },
+  {
+    "id": 7,
+    "title": "微风与你 (Breeze and You)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 155,
+    "src": "./music/songs/7.mp3",
+    "cover": "./music/covers/7.jpg",
+    "lyrics": "./music/lyrics/7.lrc"
+  },
+  {
+    "id": 8,
+    "title": "温柔的意外 (A gentle surprise)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 211,
+    "src": "./music/songs/8.mp3",
+    "cover": "./music/covers/8.jpg",
+    "lyrics": "./music/lyrics/8.lrc"
+  },
+  {
+    "id": 9,
+    "title": "心动频率 (Heartbeat Frequency)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 153,
+    "src": "./music/songs/9.mp3",
+    "cover": "./music/covers/1.jpg",
+    "lyrics": "./music/lyrics/9.lrc"
+  },
+  {
+    "id": 10,
+    "title": "心跳频率 (Heartbeat Frequency)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 152,
+    "src": "./music/songs/10.mp3",
+    "cover": "./music/covers/1.jpg",
+    "lyrics": "./music/lyrics/10.lrc"
+  },
+  {
+    "id": 11,
+    "title": "雨停之前 (Before Rain Stops)",
+    "artist": "爱乐儿",
+    "album": "春夏秋冬的画 (Paintings of the Four Seasons)",
+    "duration": 137,
+    "src": "./music/songs/11.mp3",
+    "cover": "./music/covers/11.jpg",
+    "lyrics": "./music/lyrics/11.lrc"
+  }
+]
